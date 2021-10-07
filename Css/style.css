@@ -87,7 +87,7 @@ nav a:hover::before {
   top: 50%;
   transform: translate(-50%,-50%);
   margin-top: 56px;
-  animation: zoom-out 5s linear infinite;
+  animation: zoom-out 10s linear infinite;
 }
 @keyframes zoom-out{
   100%{

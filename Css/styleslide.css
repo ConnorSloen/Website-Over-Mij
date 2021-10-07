@@ -1,11 +1,7 @@
-body{
-  margin: 0;
-  padding: 0;
-  background: #34495e;
-}
 .slidershow{
-  width: 700px;
-  height: 400px;
+  margin-top: 47px;
+  width: 1664px;
+  height: 900px;
   overflow: hidden;
 }
 .middle{
@@ -16,7 +12,7 @@ body{
 }
 .navigation{
   position: absolute;
-  bottom: 20px;
+  bottom: 80px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -41,7 +37,7 @@ input[name="r"]{
 .slides{
   width: 500%;
   height: 100%;
-  display: flex;
+  display:flex;
 }
 
 .slide{
