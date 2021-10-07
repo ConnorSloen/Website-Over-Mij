@@ -235,3 +235,11 @@ nav a:hover::before {
 .paragraph {
   margin-left: 20px;
 }
+
+#slidetext {
+  position: relative;
+  top: 250px;
+  left: 725px;
+  color: #fff;
+  font-size: 30px;
+}
