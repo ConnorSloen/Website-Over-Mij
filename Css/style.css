@@ -234,12 +234,6 @@ nav a:hover::before {
 
 .paragraph {
   margin-left: 20px;
+  color: #fff;
 }
 
-#slidetext {
-  position: relative;
-  top: 250px;
-  left: 725px;
-  color: #fff;
-  font-size: 30px;
-}
